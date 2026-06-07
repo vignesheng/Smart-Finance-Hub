@@ -1,0 +1,40 @@
+Script started on 2026-05-31 15:14:12+05:30 [<not executed on terminal>]
+total 36
+4 drwxrwxr-x 5 law law 4096 Mar 24 20:24 venv
+0 -rw-rw-r-- 1 law law    0 Mar 24 20:29 config.py
+4 -rw-rw-r-- 1 law law   55 Mar 30 19:09 requirements.txt
+4 -rw-rw-r-- 1 law law   99 Mar 30 19:57 run.py
+4 -rw------- 1 law law  319 May 22 19:33 nohup.out
+4 drwxrwxr-x 2 law law 4096 May 22 19:34 logs
+4 -rw-rw-r-- 1 law law  587 May 22 19:35 10933
+4 drwxrwxr-x 5 law law 4096 May 24 17:12 vem nv
+4 drwxrwxr-x 6 law law 4096 May 24 19:35 app
+4 drwxrwxr-x 2 law law 4096 May 30 20:19 script
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ total 36
+[?2004lCommand 'total' not found, did you mean:
+  command 'topal' from deb topal (81-2ubuntu2.1)
+Try: sudo apt install <deb name>
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 4 drwxrwxr-x 5 law law 4096 Mar 24 20:24 venv
+[?2004l4: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 0 -rw-rw-r-- 1 law law    0 Mar 24 20:29 config.py
+[?2004l0: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 4 -rw-rw-r-- 1 law law   55 Mar 30 19:09 requirements.txt
+[?2004l4: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 4 -rw-rw-r-- 1 law law   99 Mar 30 19:57 run.py
+[?2004l4: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 4 -rw------- 1 law law  319 May 22 19:33 nohup.out
+[?2004l4: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 4 drwxrwxr-x 2 law law 4096 May 22 19:34 logs
+[?2004l4: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 4 -rw-rw-r-- 1 law law  587 May 22 19:35 10933
+[?2004l4: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 4 drwxrwxr-x 5 law law 4096 May 24 17:12 venv
+[?2004l4: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 4 drwxrwxr-x 6 law law 4096 May 24 19:35 app
+[?2004l4: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ 4 drwxrwxr-x 2 law law 4096 May 30 20:19 script
+[?2004l4: command not found
+[?2004h]0;law@Law: ~/smart-finance-hub[01;32mlaw@Law[00m:[01;34m~/smart-finance-hub[00m$ [?2004l
+exit
+
+Script done on 2026-05-31 15:14:13+05:30 [COMMAND_EXIT_CODE="127"]
